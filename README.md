@@ -1,4 +1,4 @@
-# self-driving-car-gtav
+# self-driving-car-gtav :car:
 learning by doing the CNN on self drving car 
 
 ## Steps
@@ -10,5 +10,6 @@ learning by doing the CNN on self drving car
 ## Tensorboard
 tensorboard --logdir=C:/Users/.../self_driving/log
 
-Credit: Sentdex 
+
+### Credit: Sentdex 
 pythonprogramming.net
