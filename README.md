@@ -1,5 +1,5 @@
 # self-driving-car-gtav :car:
-learning by doing the CNN on self drving car 
+learning by doing the CNN on the self drving car.
 
 ## Steps
 ### Infra
