@@ -4,6 +4,7 @@ learning by doing the CNN on the self driving car.
 ## Steps
 ### Infra
 * install GTA-V (Grand Theft Auto V)
+* then open GTA-V you just to set the GTA-V screen to 800x600 (the smallest) and place it on top-left of your mornitor screen   
 * install Native Trainer (Optional)
 * pip install requirements.txt
 ### Run
