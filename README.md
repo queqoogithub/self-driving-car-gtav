@@ -1,5 +1,6 @@
 # self-driving-car-gtav :car:
-learning by doing the CNN on the self driving car.
+* refactoring code to new year 2022 library version support 
+* learning by doing the CNN on the self driving car.
 
 ## Steps
 ### Infra
