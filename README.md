@@ -18,6 +18,6 @@
 tensorboard --logdir=C:/Users/.../self_driving/log
 
 
-## Credit and Source Code : 
+## Credit and Source Code
 * Sentdex 
-* [https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/]
+* [ https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/ ]
